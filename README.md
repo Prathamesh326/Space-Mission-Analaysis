@@ -100,7 +100,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The dataset used in this project is publicly available and includes contributions from various space agencies and organizations.
 
 - Special thanks to the Python data science community for the powerful libraries (pandas, numpy, plotly, etc.) that make data analysis and visualization possible.
-
-```
-
-This README provides a comprehensive overview of the Space Mission Analysis project, including setup instructions, the types of visualizations and analyses it generates, and the tools required to run it. You can modify or extend it depending on the specifics of your project.
